@@ -1,0 +1,11 @@
+FlightID,AirlineID,Source,Destination,Passengers
+F001,A001,Chennai,Delhi,200
+F002,A001,Delhi,Chennai,180
+F003,A002,Mumbai,Kolkata,150
+F004,A002,Kolkata,Mumbai,220
+F005,A003,Bangalore,Hyderabad,300
+F006,A003,Hyderabad,Bangalore,250
+F007,A004,Ahmedabad,Pune,190
+F008,A004,Pune,Ahmedabad,210
+F009,A005,Jaipur,Lucknow,170
+F0010,A005,Lucknow,Jaipur,160

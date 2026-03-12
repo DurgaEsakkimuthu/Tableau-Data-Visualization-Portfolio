@@ -1,0 +1,11 @@
+AirlineID,Airline,City,Latitude,Longitude
+A001,Indigo,Chennai,13.0827,80.2707
+A001,Indigo,Delhi,28.6139,77.209
+A002,AirAsia,Mumbai,19.076,72.8777
+A002,AirAsia,Kolkata,22.5726,88.3639
+A003,SpiceJet,Hyderabad,17.385,78.4867
+A003,SpiceJet,Bangalore,12.9716,77.5946
+A004,Vistara,Ahmedabad,23.0225,72.5714
+A004,Vistara,Pune,18.5204,73.8567
+A005,GoFirst,Jaipur,26.9124,75.7873
+A005,GoFirst,Lucknow,26.8467,80.9462

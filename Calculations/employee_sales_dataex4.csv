@@ -1,0 +1,11 @@
+Employee ID,Employee Name,Region,Join Date,Sales Amount,Target Amount,Department
+E001,Aarav Sharma,North,15-01-2020,85000,90000,Electronics
+E002,Divya Patel,South,10-03-2021,67000,65000,Furniture
+E003,Rahul Verma,East,25-07-2019,92000,90000,Electronics
+E004,Neha Iyer,West,01-12-2020,55000,60000,Furniture
+E005,Sachin Gupta,North,05-04-2022,48000,50000,Electronics
+E006,Anjali Menon,South,14-09-2021,62000,65000,Furniture
+E007,Karan Mehta,East,03-01-2023,71000,70000,Electronics
+E008,Priya Nair,West,18-06-2020,90000,85000,Furniture
+E009,Rohit Das,North,30-11-2018,93000,92000,Electronics
+E010,Sneha Rao,South,21-08-2021,46000,48000,Furniture

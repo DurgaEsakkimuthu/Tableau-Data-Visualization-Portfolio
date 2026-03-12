@@ -1,0 +1,11 @@
+OrderID,CustomerName,Region,Category,Product,Quantity,Price,Sales,Date
+ORD001,Alice,East,Furniture,Chair,5,150,750,2023-01-01
+ORD002,Bob,West,Technology,Laptop,2,900,1800,2023-01-08
+ORD003,Charlie,East,Office Supplies,Paper,10,20,200,2023-01-15
+ORD004,Diana,South,Furniture,Desk,3,300,900,2023-01-22
+ORD005,Edward,North,Technology,Tablet,4,450,1800,2023-01-29
+ORD006,Fiona,West,Office Supplies,Pen,15,5,75,2023-02-05
+ORD007,George,South,Furniture,Shelf,2,200,400,2023-02-12
+ORD008,Hannah,North,Technology,Monitor,1,1200,1200,2023-02-19
+ORD009,Ian,East,Office Supplies,Notebook,20,3,60,2023-02-26
+ORD010,Julia,South,Furniture,Cabinet,6,500,3000,2023-03-05
